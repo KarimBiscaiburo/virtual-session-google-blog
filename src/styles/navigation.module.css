@@ -10,5 +10,10 @@
     background-color: #f9fafb;
     visibility: visible;
     opacity: 1;
-    height: 100vh;
+    
+}
+@media (max-width: 1024px) {
+    .navigationActive {
+        height: 100vh;
+    }
 }
