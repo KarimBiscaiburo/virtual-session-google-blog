@@ -1,9 +1,11 @@
 ---
-interface Props {
-	title: string;
-}
+import { Image } from 'astro:assets';
 
-const { title } = Astro.props;
+import meImage from "../img/me.webp";
+
+import NavLink from '../components/NavLink.astro';
+import GoogleColors from "../components/GoogleColors.astro"
+
 ---
 
 <!doctype html>
@@ -14,9 +16,102 @@ const { title } = Astro.props;
 		<meta name="viewport" content="width=device-width" />
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="generator" content={Astro.generator} />
-		<title>{title}</title>
+		<title>Blog - Hola Entrepreneurs 2024</title>
+
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Creepster&family=Roboto:wght@400;500;700;900&family=Special+Elite&display=swap" rel="stylesheet">
 	</head>
-	<body>
-		<slot />
+	<body class="flex w-full bg-gray-50">
+		<aside class="pr-6">
+			<nav class="w-[300px] sticky top-6">
+				<div class="pl-5 my-6">
+					<GoogleColors />
+					<p class="text-3xl font-bold text-gray-600">Hola Entrepreneurs 2024</p>
+				</div>
+
+				<ul class="flex flex-col">
+					<NavLink text='Inicio' url='/' /> 
+					
+					<NavLink text='Grow your business brand' url='/grow-your-business-brand' />
+				
+					<NavLink text='Get your business visible on Google' url='/' />
+
+					<NavLink text='Get started with Google Analytics' url='/' />
+							
+					<NavLink text='Track website traffic with Google Analytics' url='/' />
+					
+					<NavLink text='Design your digital marketing strategy with AI' url='/' />
+				
+					<NavLink text='Find customers with Google Maps' url='/' />
+				
+					<NavLink text='Reach new audiences with YouTube' url='/' />
+				
+					<NavLink text='Decision making with data' url='/' />
+				</ul>
+			</nav>
+		</aside>
+		
+		<div class="px-7 rounded-l-3xl bg-white w-full ">
+			<header class="h-28 flex justify-center items-center gap-4 mb-10">
+				<Image src={meImage} alt={"imagen-de-mi"} class={"object-contain rounded-full w-[90px] h-[90px] border shadow bg-white"}/>
+				<div>
+					<p class="text-2xl text-black">
+						Blog hecho por 
+						<a href="https://www.linkedin.com/in/karim-biscaiburo/" 
+						target="_blank" 
+						rel="noopener noreferrer" 
+						class="text-cyan-700 font-medium border-b-2 border-cyan-700 hover:text-cyan-600 hover:border-cyan-600 transition">
+							Karim Biscaiburo
+						</a>
+					</p>
+				</div>
+			</header>
+			<main class="max-w-[1300px]">
+				<slot />
+			</main>
+		</div>
 	</body>
 </html>
+
+<!-- Markdown Styles -->
+<style is:global>
+	h1, h2, h3, h4, main li {
+		margin: 15px 0;
+	}
+	h1 {
+		font-size: 50px;
+		font-weight: 700;
+	}
+	h2 {
+		font-size: 40px;
+		font-weight: 500;
+	}
+	h3 {
+		font-size: 30px;
+	}
+	h4 {
+		font-size: 25px;
+		font-weight: 700;
+	}
+	p {
+		font-size: 18px;
+		margin: 10px 0;
+		color: #1f2937; 
+	}
+	main a {
+		color: #0e7490;
+	}
+	main a:hover {
+		color: #0891b2;
+		text-decoration: underline;
+	}
+	main img {
+		margin-bottom: 30px;
+	}
+	main li {
+		font-size: 20px;
+		font-weight: 500;
+	}
+
+</style>
