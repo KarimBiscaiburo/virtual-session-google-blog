@@ -1,0 +1,14 @@
+.navigation {
+    position: sticky;
+    top: 24px;
+    width: 50px;
+    visibility: hidden;
+    opacity: 0;
+}
+.navigationActive {
+    width: 300px;
+    background-color: #f9fafb;
+    visibility: visible;
+    opacity: 1;
+    height: 100vh;
+}

@@ -3,8 +3,7 @@ import { Image } from 'astro:assets';
 
 import meImage from "../img/me.webp";
 
-import NavLink from '../components/NavLink.astro';
-import GoogleColors from "../components/GoogleColors.astro"
+import Navigation from "../components/Navigation";
 
 ---
 
@@ -23,34 +22,8 @@ import GoogleColors from "../components/GoogleColors.astro"
 		<link href="https://fonts.googleapis.com/css2?family=Creepster&family=Roboto:wght@400;500;700;900&family=Special+Elite&display=swap" rel="stylesheet">
 	</head>
 	<body class="flex w-full bg-gray-50">
-		<aside class="pr-6">
-			<nav class="w-[300px] sticky top-6">
-				<div class="pl-5 my-6">
-					<GoogleColors />
-					<p class="text-3xl font-bold text-gray-600">Hola Entrepreneurs 2024</p>
-				</div>
-
-				<ul class="flex flex-col">
-					<NavLink text='Inicio' url='/' /> 
-					
-					<NavLink text='Grow your business brand' url='/grow-your-business-brand' />
-				
-					<NavLink text='Get your business visible on Google' url='/' />
-
-					<NavLink text='Get started with Google Analytics' url='/' />
-							
-					<NavLink text='Track website traffic with Google Analytics' url='/' />
-					
-					<NavLink text='Design your digital marketing strategy with AI' url='/' />
-				
-					<NavLink text='Find customers with Google Maps' url='/' />
-				
-					<NavLink text='Reach new audiences with YouTube' url='/' />
-				
-					<NavLink text='Decision making with data' url='/' />
-				</ul>
-			</nav>
-		</aside>
+		
+		<Navigation client:load/>
 		
 		<div class="px-7 rounded-l-3xl bg-white w-full ">
 			<header class="h-28 flex justify-center items-center gap-4 mb-10">
@@ -107,11 +80,48 @@ import GoogleColors from "../components/GoogleColors.astro"
 		text-decoration: underline;
 	}
 	main img {
-		margin-bottom: 30px;
+		margin: 30px 0;
 	}
 	main li {
 		font-size: 20px;
 		font-weight: 500;
 	}
 
+
+	@media (max-width: 1024px) {
+		h1 {
+			font-size: 38px;
+			font-weight: 700;
+		}
+		h2 {
+			font-size: 32px;
+			font-weight: 500;
+		}
+		h3 {
+			font-size: 22px;
+		}
+		h4 {
+			font-size: 17px;
+			font-weight: 700;
+		}
+		p {
+			font-size: 15px;
+			margin: 10px 0;
+			color: #1f2937; 
+		}
+		main a {
+			color: #0e7490;
+		}
+		main a:hover {
+			color: #0891b2;
+			text-decoration: underline;
+		}
+		main img {
+			margin: 30px 0;
+		}
+		main li {
+			font-size: 20px;
+			font-weight: 500;
+		}
+	}
 </style>
