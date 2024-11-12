@@ -11,11 +11,11 @@ Los temas a tratar en esa sección son sobre:
 2. Mostrar tus productos en Google
 3. Construir nuestra presencia en Google Maps y en los buscadores.
 
-![alt text](../img/image.png)
+![Get Your Business Visible on Google](../img/portada-segunda.png)
 
 ## Comprender cómo los cliente encuentran tu negocio en línea 
 
-![alt text](../img/image-1.png)
+![Comprender cómo los cliente encuentran tu negocio en línea ](../img/primera-seccion.png)
 
 Para que un negocio sea visible en internet, es fundamental comprender la forma en que los clientes buscan y descubren productos o servicios en línea. Ponerse en el lugar de la audiencia y pensar como ellos permite construir una presencia digital sólida que responda a sus necesidades y expectativas. Es común que los compradores investiguen a las marcas en redes sociales antes de tomar una decisión de compra; por lo tanto, asegurar que tu negocio esté visible y accesible en estos espacios es esencial. Esto significa no solo tener perfiles activos, sino también generar contenido relevante y auténtico que atraiga la atención y fomente la confianza del cliente.
 
@@ -25,17 +25,17 @@ La forma en que los consumidores usan los motores de búsqueda para investigar p
 
 Asimismo, el 62% de los compradores usa Google para comparar productos de distintos vendedores antes de tomar una decisión. Esto implica que el contenido y la presentación de los productos y servicios en línea influyen directamente en las decisiones de compra. Para captar la atención de los clientes, es fundamental proyectar una imagen clara, profesional y coherente que facilite la comprensión de lo que ofreces. Una presencia online bien diseñada no solo aumenta la visibilidad de la marca, sino que también mejora la posibilidad de que el cliente te elija frente a la competencia.
 
-![alt text](../img/image-2.png)
+![¿Cómo utilizan los clientes los motores de búsqueda para encontrar empresas y productos?](../img/porcentajes.png)
 
 ### El camino de la compra online
 
-![alt text](../img/image-3.png)
+![El camino de la compra online](../img/desorden-camino.png)
 
 El proceso de compra online es todo menos lineal; en realidad, puede ser un camino caótico y lleno de decisiones intermedias. Los consumidores no siguen una ruta fija al buscar productos o servicios; en cambio, su experiencia de compra está influenciada por múltiples variables y pasos interconectados. Esto puede incluir desde el descubrimiento inicial de un producto hasta las revisiones de alternativas, el análisis de opiniones y la comparación de precios. Los comentarios y reseñas de otros compradores se vuelven elementos cruciales en esta ruta, pues ayudan a los consumidores a tomar decisiones más informadas y a tener confianza en lo que están adquiriendo.
 
 Dada la naturaleza de este "camino de compra desordenado," es esencial que las empresas mantengan una presencia activa y sólida en redes sociales. Estar presente en estos espacios no solo mejora la visibilidad de la marca, sino que también facilita el acceso a opiniones, interacciones y contenido relevante que puede influir directamente en la decisión de compra de un consumidor.
 
-![alt text](../img/image-4.png)
+![El camino de la compra online completo](../img/orden-camino.png)
 
 #### ¿Qué es lo que buscan los consimudores en el medio de ese desorden?
 
@@ -49,7 +49,7 @@ El "sesgo de autoridad" también es relevante. Generar autoridad y demostrar un 
 
 Finalmente, el "poder de lo gratis" es una técnica efectiva. Los consumidores se sienten atraídos cuando reciben un incentivo adicional sin costo. Esto puede incluir un producto extra o una recompensa por fidelidad, como un café gratuito después de varias compras. Este tipo de incentivos ayuda a añadir valor a la experiencia de compra, haciendo que los consumidores se sientan más satisfechos y propensos a elegir nuevamente la marca en el futuro.
 
-![alt text](../img/image-5.png)
+![¿Qué es lo que buscan los consimudores en el medio de ese desorden?](../img/clientes-buscan.png)
 
 #### Ayuda a los consumidores a salir de ese desorden
 
@@ -59,7 +59,7 @@ Además, es crucial cerrar la brecha entre el "trigger" o detonante que lleva al
 
 Finalmente, facilitar el proceso de compra y motivar al cliente a decidir de inmediato es esencial. Las ofertas atractivas y urgentes pueden ser un impulso decisivo. Crear promociones irresistibles y generar ese sentido de urgencia ayuda a que el cliente no solo se interese en el producto, sino que se sienta motivado a concretar la compra sin aplazamientos.
 
-![alt text](../img/image-7.png)
+![Ayuda a los consumidores a salir de ese desorden](../img/salir-desorden.png)
 
 #### ¿Por qué es importante la "búsqueda"?
 
@@ -67,7 +67,7 @@ La búsqueda es, en la mayoría de los casos, el punto de partida en el camino d
 
 No estar presente en los resultados de búsqueda cuando un cliente investiga un producto o servicio que ofrecemos representa una gran pérdida de oportunidades. Es fundamental estar allí, en el momento en que el cliente realiza esa búsqueda, para captar su atención y mostrarle que tenemos lo que necesita. Dejar pasar esta oportunidad puede significar perder potenciales clientes y ventas. En resumen, asegurar que nuestra marca aparezca en las búsquedas relacionadas con nuestro producto o servicio es absolutamente esencial para tener éxito en el entorno online.
 
-![alt text](../img/image-6.png)
+![¿Por qué es importante la "búsqueda"?](../img/importante-busqueda.png)
 
 Es crucial que comprendamos y adoptemos la perspectiva de un cliente cuando realiza una búsqueda. Por ejemplo, pensemos en alguien buscando "pizzas cerca de mí": ¿qué resultados aparecen y qué hace que elija una opción sobre otra? Incluso antes de hacer clic en el botón de búsqueda, es relevante entender qué opciones muestra el buscador y por qué el usuario selecciona ciertas alternativas. Los factores que vemos en pantalla, como las imágenes, los precios o las reseñas, influyen en cómo percibimos y resolvemos nuestra búsqueda.
 
@@ -75,8 +75,7 @@ Además de estos elementos, otros parámetros también afectan la decisión del 
 
 A medida que los teléfonos se convierten en la herramienta principal para realizar búsquedas, es importante considerar que, muchas veces, los clientes buscan productos o servicios "en movimiento" —cuando están yendo hacia el lugar o el momento en que planean realizar la compra. Esta tendencia resalta la necesidad de optimizar nuestras campañas de publicidad, redes sociales y sitios web para ser fácilmente accesibles desde dispositivos móviles. Tener en mente cómo y dónde un cliente potencial buscará nuestro producto nos permite ajustar nuestra presencia online para maximizar la visibilidad y facilitar el proceso de compra en el momento preciso.
 
-![alt text](../img/image-8.png)
-
+![¿Por qué es importante la "búsqueda"? Final](../img/importante-busqueda-final.png)
 
 #### ¿Cómo los consumidores encuentran productos?
 
@@ -84,11 +83,11 @@ Podemos entender el proceso de búsqueda de productos pensando en cómo hemos bu
 
 Cuando los consumidores realizan una búsqueda, suelen comenzar con un tema o tópico de interés. Sin embargo, también incluyen "modificadores" que son palabras o frases adicionales que especifican el tipo de información que desean encontrar sobre ese tema. Algunos ejemplos de estos modificadores son "cerca de mí," "barato" o "el mejor," los cuales añaden un contexto extra que ajusta los resultados de búsqueda según las necesidades del consumidor. Estos modificadores son una parte fundamental del comportamiento de búsqueda, ya que indican un interés o preferencia particular y permiten a los motores de búsqueda ofrecer resultados más relevantes y personalizados.
 
-![alt text](../img/image-9.png)
+![¿Cómo los consumidores encuentran productos?](../img/encuentra-productos.png)
 
 A lo largo del tiempo, las búsquedas han cambiado significativamente. La forma en que los consumidores buscan productos y servicios ha evolucionado en respuesta a los avances en tecnología, a la creciente disponibilidad de información y a las tendencias cambiantes. Anteriormente, las búsquedas podían ser más generales y básicas, ya que los usuarios se acostumbraban a interactuar con los motores de búsqueda. Sin embargo, con el tiempo, las consultas se han vuelto mucho más detalladas, y los usuarios aplican modificadores específicos para afinar los resultados según sus necesidades.
 
-![alt text](../img/image-10.png)
+![¿Cómo los consumidores encuentran productos? Línea de tiempo](../img/encuentra-productos-linea.png)
 
 #### Comprender el comportamiento de búsqueda con Google trends
 
@@ -96,7 +95,7 @@ Google Trends es una herramienta poderosa para analizar el comportamiento de bú
 
 Para una marca, entender estos patrones es fundamental. Google Trends nos ayuda a enfocar nuestras campañas y mensajes en las áreas que están ganando relevancia, lo cual aumenta la probabilidad de captar la atención de los consumidores. Por ejemplo, si detectamos que existe un aumento en las búsquedas relacionadas con temas de sostenibilidad o envíos rápidos, podemos adaptar nuestra oferta de productos o servicios para responder a estas expectativas. De esta forma, Google Trends no solo nos ayuda a monitorear las tendencias, sino también a anticipar las necesidades de nuestros clientes, permitiéndonos conectar con ellos de manera más efectiva.
 
-![alt text](../img/image-11.png)
+![Comprender el comportamiento de búsqueda con Google trends](../img/comprender-trends.png)
 
 #### Usa Google Ads Insights para entender a tus usuarios
 
@@ -104,32 +103,32 @@ Google Ads Insights es otra herramienta valiosa para conocer mejor a tus usuario
 
 La información obtenida a través de Google Ads Insights es útil no solo para optimizar la publicidad, sino también para mejorar tu producto o servicio en función de las expectativas y preferencias de tus clientes. Así, puedes detectar oportunidades para adaptar tu oferta y hacer que responda mejor a las demandas del mercado, lo cual aumenta tus probabilidades de captar y retener a los clientes de manera efectiva.
 
-![alt text](../img/image-12.png)
+![Usa Google Ads Insights para entender a tus usuarios](../img/usa-ads.png)
 
 
-## Construir Nuestra Presencia en Google Maps y en los Buscadores
+## Construir nuestra presencia en Google Maps y en los buscadores
 
 Tener una presencia sólida en Google Maps y en los motores de búsqueda es fundamental para cualquier negocio que desee aumentar su visibilidad y atraer a más clientes. Google Maps, en particular, permite que los usuarios encuentren tu negocio cuando buscan servicios o productos cercanos, y proporciona información útil como la ubicación, horarios, reseñas y fotos. Este tipo de presencia local ayuda a atraer a clientes potenciales en la zona, especialmente en dispositivos móviles cuando los usuarios buscan opciones mientras se desplazan.
 
 Puedes encontrar 4 tipos diferentes de resultados en Google.
 
-![alt text](../img/image-13.png)
+![Construir Nuestra Presencia en Google Maps y en los Buscadores](../img/tipos-resultados.png)
 
 En los motores de búsqueda, también puedes utilizar resultados promocionados, donde las empresas pagan para aparecer en posiciones destacadas para ciertos términos de búsqueda. Estos resultados aumentan la visibilidad de la marca y pueden captar la atención de los usuarios desde el primer momento. Sin embargo, no solo se trata de pagar por la visibilidad; construir una buena reputación mediante reseñas positivas y optimizar la información de tu negocio son factores clave para maximizar el impacto de tu presencia en Google Maps y en los buscadores.
 
-![alt text](../img/image-14.png)
+![Resultados promocionados](../img/resultados-promocionados.png)
 
 Además de los resultados promocionados, los perfiles de negocios de Google son una excelente forma de establecer una presencia en línea, especialmente si no cuentas con una página web o redes sociales. Estos perfiles permiten que tu negocio aparezca en los resultados de búsqueda de Google y en Google Maps con información clave, como dirección, número de teléfono, horarios de atención, y opiniones de clientes. Son una herramienta útil para pequeñas empresas que desean ser visibles sin necesidad de una página web completa. A través de estos perfiles, los usuarios pueden obtener detalles rápidamente sobre tu negocio y contactarte directamente.
 
 Por otro lado, las búsquedas orgánicas son el corazón de los resultados de Google. A diferencia de los resultados promocionados, que se obtienen mediante pago, los resultados orgánicos dependen de la relevancia de tu contenido frente a las consultas realizadas. Google prioriza mostrar los resultados más relevantes y útiles para el usuario, basándose en varios factores, como la calidad del contenido, la autoridad del sitio web y la experiencia del usuario. Aunque este tipo de resultados no involucra pagos directos, posicionarse en los primeros lugares de las búsquedas orgánicas requiere de tiempo, esfuerzo y una estrategia de SEO bien ejecutada. Sin embargo, una vez que alcanzas una buena posición, puedes generar un flujo constante de tráfico sin necesidad de seguir invirtiendo en publicidad.
 
-![alt text](../img/image-15.png)
+![Resultados en Maps y organicos](../img/resultados-maps-organicos.png)
 
 Finalmente, las tiendas de compra de Google son otra herramienta útil que los negocios pueden aprovechar para aumentar su visibilidad y atraer clientes. Google Shopping permite a los usuarios comparar productos de diferentes vendedores, ver precios, calidades y características, todo en un solo lugar. Esto beneficia tanto a los consumidores, que pueden tomar decisiones informadas sobre dónde comprar, como a los negocios, que tienen la oportunidad de mostrar sus productos en una plataforma ampliamente utilizada.
 
 Al agregar tus productos a Google Shopping, puedes destacarte entre la competencia, especialmente si tu oferta es competitiva en términos de precio, calidad o características únicas. Además, Google Shopping ofrece filtros para que los usuarios refinen su búsqueda según diversos criterios, como la ubicación, la reputación del vendedor o las promociones disponibles. Para las empresas, esta es una excelente forma de ganar visibilidad y atraer tráfico directamente a su tienda online o perfil de negocio, optimizando así su presencia online.
 
-![alt text](../img/image-16.png)
+![Resultados de Google Shopping](../img/resultados-shopping.png)
 
 #### Optimización para los motores de búsqueda
 
@@ -139,8 +138,7 @@ Uno de los elementos clave para una estrategia SEO exitosa es el contenido. Goog
 
 El SEO no solo se trata de incluir palabras clave, sino también de proporcionar una experiencia de usuario excepcional, lo que incluye tiempos de carga rápidos, una navegación fácil, y un diseño adaptable a dispositivos móviles. Al invertir en SEO, no solo mejoras tu visibilidad en los motores de búsqueda, sino que también contribuyes a la creación de una marca confiable y bien posicionada en el mercado.
 
-![alt text](../img/image-17.png)
-
+![Optimización para los motores de búsqueda](../img/seo-optimizacion.png)
 
 ### Descubre como Google ve tu sitio web
 
@@ -150,7 +148,7 @@ Además, Google Search Console te permite monitorear aspectos técnicos del siti
 
 Al utilizar esta herramienta, no solo podrás asegurarte de que Google entienda y rastree correctamente tu sitio, sino que también podrás optimizarlo para mejorar su posicionamiento en las búsquedas, aumentando así el tráfico orgánico y ofreciendo una mejor experiencia a tus usuarios.
 
-![alt text](../img/image-18.png)
+![Descubre como Google ve tu sitio web](../img/google-ve-pagina.png)
 
 ### Requerimientos del SEO
 
@@ -168,7 +166,7 @@ Evitar las amenazas cibernéticas: Mantén tu sitio web protegido contra amenaza
 
 Evitar el plagio: Google valora el contenido original. Si tu sitio web contiene contenido copiado o plagiado de otros, es probable que sea penalizado en los resultados de búsqueda. Siempre crea contenido único y de calidad que aporte valor a tus usuarios.
 
-![alt text](../img/image-19.png)
+![Requerimientos del SEO](../img/requerimientos-seo.png)
 
 ### Buenas prácticas de SEO
 
@@ -188,7 +186,7 @@ Mejora la apariencia de tu sitio en la búsqueda de Google: Optimiza tu sitio pa
 
 Controla cómo tu contenido aparece en Google: Utiliza herramientas como la configuración de meta descripciones y títulos SEO para controlar cómo se presenta tu contenido en los resultados de búsqueda. Asegúrate de que estos elementos sean atractivos y estén alineados con lo que los usuarios buscan.
 
-![alt text](../img/image-20.png)
+![Buenas prácticas de SEO](../img/buenas-practicas-seo.png)
 
 ### PageSpeed Insights
 
@@ -206,82 +204,82 @@ Recomendaciones de mejora: La herramienta te ofrece sugerencias sobre cómo mejo
 
 Utilizar PageSpeed Insights regularmente para medir y mejorar el rendimiento de tu sitio web no solo proporciona una mejor experiencia al usuario, sino que también puede mejorar tu posicionamiento en los resultados de búsqueda de Google.
 
-![alt text](../img/image-21.png)
+![PageSpeed Insights](../img/pageSpeed-insights.png)
 
 ### SEM (Search Engine Marketing)
 
 El SEM utiliza publicidad pagada para garantizar que los productos o servicios de una empresa sean visibles en las páginas de resultados de los motores de búsqueda. Mediante campañas en plataformas como Google Ads, las empresas destacan en posiciones clave, orientando sus anuncios según palabras clave y preferencias de los usuarios para captar su interés en el momento adecuado.
 
-![alt text](../img/image-22.png)
+![SEM (Search Engine Marketing)](../img/SEM.png)
 
-![alt text](../img/image-23.png)
+![Donde aparece el SEM](../img/SEM-aparece.png)
 
 ### Pasos para crear un anuncio en el buscador
 
 Primero, crea una campaña en Google Ads y establece un objetivo y una oferta que se alineen con tus metas. Luego, permite que los anuncios de máximo rendimiento optimicen el alcance. Mientras más detalles proporciones sobre tu producto o servicio, mejores resultados obtendrás, ya que estos anuncios aprovechan esa información para mejorar su efectividad.
 
-![alt text](../img/image-24.png)
+![Pasos para crear un anuncio en el buscador](../img/pasos-ads.png)
 
 ### Google Business Profile
 
 Google Business Profile es una herramienta útil para garantizar que tu empresa aparezca en los motores de búsqueda y en Google Maps cuando las personas busquen tu negocio, servicios o productos. Con un perfil optimizado, puedes mejorar la visibilidad de tu marca y facilitar que los clientes potenciales te encuentren fácilmente.
 
-![alt text](../img/image-25.png)
+![Google Business Profile](../img/google-business-profile.png)
 
-![alt text](../img/image-26.png)
+![Google Business Profile en los buscadores](../img/negocio-en-maps.png)
 
 ### Pasos para crear un perfil en Google Business Profile
 
 Comienza ingresando a business.google.com, luego selecciona o agrega tu negocio. Completa la información relevante sobre tu empresa y, finalmente, verifica tus listados para que tu perfil esté visible en las búsquedas y en Google Maps.
 
-![alt text](../img/image-27.png)
+![Pasos para crear un perfil en Google Business Profile](../img/pasos-business.png)
 
 ### Optimzar tu Google Business Profile
 
 Para mejorar la visibilidad y atraer más clientes, agrega información clave como las horas de apertura, sube fotos atractivas de tu negocio y responde a los comentarios de los clientes. Esto genera confianza y fomenta la interacción, ayudando a que tu negocio destaque en los resultados de búsqueda.
 
-![alt text](../img/image-28.png)
+![Optimzar tu Google Business Profile](../img/optimiza-business.png)
 
 Es crucial mantener tu perfil actualizado, así que crea publicaciones para informar a tus clientes sobre novedades, ofertas o cambios en tu negocio. Explica por qué estás haciendo algo nuevo, cuándo sucederá y a quién va dirigido. Esto no solo mantiene a tus clientes al tanto, sino que también mejora el compromiso y la visibilidad de tu negocio.
 
-![alt text](../img/image-29.png)
+![Optimzar tu Google Business Profile haciendo posts](../img/optimiza-post.png)
 
 ### Utiliza insight para impulsar tu marketing digital
 
 Google Business Profile ofrece herramientas analíticas que te permitirán tomar decisiones informadas sobre tu marketing. Puedes conocer detalles como cuánto tiempo los usuarios miran una foto, en qué elementos se están enfocando y otras métricas clave que te ayudarán a entender qué está funcionando y qué ajustar para mejorar los resultados.
 
-![alt text](../img/image-30.png)
+![Utiliza insight para impulsar tu marketing digital](../img/insight.png)
 
-## Mostrar tus Productos en Google
+## Mostrar tus productos en Google
 
 ### Google Shopping
 
 Google Shopping es una herramienta poderosa utilizada más de un millón de veces al día. Te permite mostrar tu inventario y productos de manera destacada, facilitando la compra para los usuarios. Además, ofrece varias secciones para completar con información detallada que ayuda a los clientes a encontrar lo que buscan y tomar decisiones de compra informadas.
 
-![alt text](../img/image-31.png)
+![Google Shopping](../img/google-shopping.png)
 
 A través de Google Merchant Center, puedes mostrar tus productos en diferentes plataformas como los motores de búsqueda, Google Maps y YouTube. Esto te permite llegar a más clientes potenciales, asegurando que tu inventario esté disponible donde más se necesita.
 
-![alt text](../img/image-32.png)
+![Google Merchant Center 1](../img/google-merchant-center-1.png)
 
-![alt text](../img/image-33.png)
+![Google Merchant Center 2](../img/google-merchant-center-2.png)
 
-![alt text](../img/image-34.png)
+![Google Merchant Center 3](../img/google-merchant-center-3.png)
 
 ### ¿Cómo funciona Merchant Center?
 
 Primero, debes agregar tus productos a Google Merchant Center. Luego, estos aparecerán en la pestaña de "Shopping" en los resultados de búsqueda. Cuando los clientes hagan clic en tus productos, serán redirigidos a tu página web para completar la compra.
 
-![alt text](../img/image-35.png)
+![¿Cómo funciona Merchant Center?](../img/merchant-center.png)
 
 ### Automatiza con Merchant Center Next
 
 Merchant Center Next te permite automatizar diversas tareas, lo que facilita la gestión de tus productos y anuncios en Google. A través de esta herramienta, puedes automatizar la actualización de inventarios, la optimización de anuncios, y la segmentación de productos según las búsquedas de los usuarios. Esto reduce la carga de trabajo manual, asegurando que la información sobre tus productos esté siempre actualizada y que tus campañas publicitarias estén optimizadas para llegar a la audiencia adecuada. Además, la automatización permite ajustar los precios y las promociones de manera dinámica según las tendencias y demandas del mercado. Esto te ayuda a ahorrar tiempo y recursos, mientras mejora la eficiencia de tus campañas de marketing digital.
 
-![alt text](../img/image-36.png)
+![Automatiza con Merchant Center Next](../img/merchant-center-next.png)
 
 ### Conviertete en un profesional local de confianza
 
 Para convertirte en un profesional local de confianza, comienza registrándote como proveedor de servicios en las plataformas de Google. Una vez que completes tu registro, podrás ingresar tu presupuesto para gestionar tus anuncios y establecer la estrategia de marketing adecuada. Luego, inicia tus anuncios en Google, lo que te permitirá llegar a más clientes en tu área local y aumentar la visibilidad de tus servicios. Esto no solo te ayudará a ser reconocido como un profesional confiable, sino que también potenciará tu presencia en línea, facilitando que los clientes te encuentren y elijan para satisfacer sus necesidades.
 
-![alt text](../img/image-37.png)
+![Conviertete en un profesional local de confianza](../img/profesional-local-confianza.png)
