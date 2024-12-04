@@ -50,7 +50,7 @@ export default function Navigation() {
                         
                             <NavLink text='Get your business visible on Google' url='/get-your-business-visible-on-google' />
 
-                            <NavLink text='Get started with Google Analytics' url='/' />
+                            <NavLink text='Get started with Google Analytics' url='/get-started-with-google-analytics' />
                                     
                             <NavLink text='Track website traffic with Google Analytics' url='/' />
                             
