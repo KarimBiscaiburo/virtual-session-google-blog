@@ -1,3 +1,6 @@
+---
+    layout: "../layouts/Layout.astro"
+---
 # Get Started with Google Analytics
 
 https://www.youtube.com/watch?v=cYaE3wqcbko
